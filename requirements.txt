@@ -1,7 +1,8 @@
-```text
 pandas
+numpy
 matplotlib
 seaborn
 python-chess
 requests
 tqdm
+ipykernel
