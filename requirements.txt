@@ -1,0 +1,7 @@
+```text
+pandas
+matplotlib
+seaborn
+python-chess
+requests
+tqdm
