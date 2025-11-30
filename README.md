@@ -131,7 +131,7 @@
 
 ---
 
-### 1. Average Game Length Differences (plycount)
+### 1. Average Game Length Differences (half-moves)
 
 **Research Question:**  
 Do different players tend to play longer games on average?
