@@ -6,3 +6,4 @@ python-chess
 requests
 tqdm
 ipykernel
+scikit-learn
